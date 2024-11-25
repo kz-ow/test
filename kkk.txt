@@ -4,3 +4,8 @@ kkk
 sato kakkoii
 sato respect
 sato cool beauty cute
+
+def cul_plus(left):
+    return left+1
+
+print(cul_plus(4))
